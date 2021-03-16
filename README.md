@@ -16,7 +16,7 @@
 
 ---- 
 
-Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de **Técnico em Informática para Internet** (Instituto Federal do Maranhão, _concluído_). De lá pra cá venho focando nas tecnologias ReactJS, React Native e um pouco de Nodejs. 
+Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de **Técnico em Informática para Internet** (Instituto Federal do Maranhão, _concluído_). De lá pra cá venho focando nas tecnologias ReactJS, React Native e Nodejs. 
 
 Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJs do Ignite Rocktseat.
 
