@@ -11,6 +11,10 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+[![GitHub Followers](https://img.shields.io/github/followers/tiagopierre?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/tiagopierre)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
+[![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=Outlook&Color=white)](mailto:tiago_pierre@outlook.com)
+
 
 </br>
 
