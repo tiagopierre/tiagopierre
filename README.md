@@ -1,6 +1,6 @@
 <h1>
   <img height="32em" src="https://raw.githubusercontent.com/tiagopierre/portfolio/6938a688bf6f7a8095128f2898b8645e1664557c/assets/logo.svg"/>
-  Hello World, I'm Pierre! 
+  Hello World, I'm Tiago Pierre! 
 </h1>
 
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
