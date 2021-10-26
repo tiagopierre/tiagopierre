@@ -1,5 +1,5 @@
 <h1>
-  <img height="32em" src="https://raw.githubusercontent.com/tiagopierre/portfolio/6938a688bf6f7a8095128f2898b8645e1664557c/assets/logo.svg"/>
+  <img  src="https://github.com/tiagopierre/portfolio/blob/main/assets/logo.png?raw=true"/>
   Hello World, I'm Tiago Pierre! 
 </h1>
 
