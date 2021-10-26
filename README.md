@@ -1,22 +1,9 @@
 ### 👋 Hello World, I'm Pierre!  
 ###
 
-<a target="_blank" href="https://www.linkedin.com/in/devpierre/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/tiagopierre__">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:tiago_pierre@outlook.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tiagopierre?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/tiagopierre)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
-[![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=Outlook&Color=white)](mailto:tiago_pierre@outlook.com)
-
-
-</br>
 
 ---- 
 
@@ -24,9 +11,6 @@ Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que 
 
 Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJs do Ignite Rocktseat.
 
-
-
-----
 
 **Tecnologias:**  
 
@@ -38,4 +22,14 @@ Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJ
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+----
 
+**Stats:**  
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagopierre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopierre&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+###
+![](https://komarev.com/ghpvc/?username=your-github-tiagopierre&color=ff69b4&style=flat&label=visitors)
