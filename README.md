@@ -7,9 +7,9 @@
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
 [![Gmail Badge](https://img.shields.io/badge/-suporte.devbuild@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:suporte.devbuild@gmail.com)](mailto:suporte.devbuild@gmail.com)
 
-Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de **Técnico em Informática para Internet** (Instituto Federal do Maranhão, _concluído_). De lá pra cá venho focando nas tecnologias ReactJS, React Native e Nodejs. 
+<p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de <strong>Técnico em Informática para Internet</strong> (Instituto Federal do Maranhão, _concluído_). De lá pra cá venho focando nas tecnologias ReactJS, React Native e Nodejs. </p>
 
-Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJs do Ignite Rocktseat.
+<p align="justify">Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJs do Ignite Rocktseat.</p>
 
 
 <h2>Tecnologias</h2>  
@@ -26,8 +26,8 @@ Atualmente trabalho como suporte de T.I na Anatel/PI e estou na trilha de ReactJ
 <h2>Stats</h2>  
 
 
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagopierre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopierre&layout=compact&langs_count=7&theme=dark"/>
+  <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=tiagopierre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopierre&layout=compact&langs_count=7&theme=dark"/>
 
 
 ###
