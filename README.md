@@ -5,7 +5,7 @@
 
 </h1>
 
-  <img height="590em" align="right" src="https://github.com/tiagopierre/portfolio/blob/main/assets/Mobile.png?raw=true"/>
+  <img  align="right" src="https://github.com/tiagopierre/portfolio/blob/main/assets/Mobile.png?raw=true"/>
 
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
 [![Gmail Badge](https://img.shields.io/badge/-suporte.devbuild@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:suporte.devbuild@gmail.com)](mailto:suporte.devbuild@gmail.com)
