@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://github.com/tiagopierre/portfolio/blob/main/assets/Mobile.png?raw=true"/>
+<img align="right" src="https://github.com/tiagopierre/portfolio/blob/main/assets/Mobile.png?raw=true"/>
 <h1>
   <img  src="https://github.com/tiagopierre/portfolio/blob/main/assets/logo.png?raw=true"/>
   Hello World, I'm Tiago Pierre! 
