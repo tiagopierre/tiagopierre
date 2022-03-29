@@ -10,8 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
 [![Gmail Badge](https://img.shields.io/badge/-suporte.devbuild@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:suporte.devbuild@gmail.com)](mailto:suporte.devbuild@gmail.com)
 
-<p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de <strong>Técnico em Informática para Internet</strong> (Instituto Federal do Maranhão, <i>concluído</i>). De lá pra cá venho focando nas tecnologias ReactJS, React Native e Nodejs. </p>
-
+<p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2018, ano em que iniciei o curso de <strong>Técnico em Informática para Internet</strong> (Instituto Federal do Maranhão, <i>concluído</i>).
 <p align="justify">Atualmente estou na trilha de ReactJs do Ignite Rocktseat.</p>
 
 
