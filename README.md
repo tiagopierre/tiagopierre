@@ -28,9 +28,9 @@
 </br>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>  
- <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopierre&layout=compact&langs_count=7&theme=dark"/>
+ <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-pierre-dotcodingbr&layout=compact&langs_count=7&theme=dark"/>
 
-  <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=tiagopierre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=tiago-pierre-dotcodingbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
 
 
