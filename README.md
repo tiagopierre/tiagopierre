@@ -37,7 +37,7 @@
 ###
 
 
-[![GitHub Followers](https://img.shields.io/github/followers/tiagopierre?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/tiagopierre)
+[![GitHub Followers](https://img.shields.io/github/followers/tiagopierre?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/tiago-pierre-dotcodingbr)
 ![](https://komarev.com/ghpvc/?username=your-github-tiagopierre&color=ff69b4&style=flat&label=visitors)
 
 
