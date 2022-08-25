@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
 [![Gmail Badge](https://img.shields.io/badge/-suporte.devbuild@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:suporte.devbuild@gmail.com)](mailto:suporte.devbuild@gmail.com)
 
-<p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2020. Sou apaixonado pelo o ecossistema JavaScript, o qual me tornei desenvolvedor Front-End certificado pela Rocketseat.</p>
+<p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2020. Apaixonado pelo o ecossistema JavaScript, o qual me tornei desenvolvedor Front-End certificado pela Rocketseat.</p>
 
 </br>
 <h2> 🛠 &nbsp;Tech Stack</h2>  
