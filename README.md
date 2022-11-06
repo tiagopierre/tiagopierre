@@ -8,7 +8,7 @@
   <img  align="right" src="https://github.com/tiagopierre/portfolio/blob/main/assets/Mobile.png?raw=true"/>
 
 [![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
-[![Gmail Badge](https://img.shields.io/badge/-suporte.devbuild@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:suporte.devbuild@gmail.com)](mailto:suporte.devbuild@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tiago_pierre@outlook.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:tiago_pierre@outlook.com)](mailto:tiago_pierre@outlook.com)
 
 <p align="justify">Meu nome é Tiago Pierre, sou estudante de programação desde 2020. Apaixonado pelo o ecossistema JavaScript, o qual me tornei desenvolvedor Front-End certificado pela Rocketseat.</p>
 
