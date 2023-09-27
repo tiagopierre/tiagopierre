@@ -1,4 +1,4 @@
-### Hi, I'm Tiago Pierre
+## Hi, I'm Tiago Pierre
 
 I’m a Front-end Developer, with a focus on Web and Mobile development. 🚀
 
