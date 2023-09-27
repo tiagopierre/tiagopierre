@@ -1,6 +1,6 @@
 
 <h1>
-  <img  src="https://github.com/tiago-pierre-dotcodingbr/portfolio/blob/main/assets/logo.svg"/>
+<!--   <img height="32em"  src="https://github.com/tiago-pierre-dotcodingbr/portfolio/blob/main/assets/logo.svg"/> -->
   Hi, I'm Pierre! 
 
 </h1>
