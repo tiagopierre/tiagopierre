@@ -3,8 +3,8 @@
 I’m a Front-end Developer, with a focus on Web and Mobile development. 🚀
 
 #### My current tools 
-📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
+📲 Front-end Mobile with React Native  
 🛠️ Typescript  
 🧰 And more...  
 
