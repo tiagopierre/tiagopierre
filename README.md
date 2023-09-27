@@ -4,10 +4,10 @@
 I'm a Frontend Developer with a focus on Web and Mobile development. I have a passion for technology, a love for coffee, and a knack for applying knowledge to solve real-world problems. Always learning and growing. 🚀
 
 #### My current tools 
-🌎 Front-end Web with Reactjs  
-📲 Front-end Mobile with React Native  
-🛠️ Typescript  
-🧰 And more...  
+🌎 - Front-end Web with Reactjs  
+📲 - Front-end Mobile with React Native  
+🛠️ - Typescript  
+🧰 - And more...  
 
 #### 💬 Find me elsewhere
 
