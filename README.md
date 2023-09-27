@@ -1,7 +1,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQGQV_GgWgtmMw/profile-displaybackgroundimage-shrink_350_1400/0/1694511867200?e=1701302400&v=beta&t=2Gb76eeKaqEk4FYfQdPAySqa01TDdPnSsmicSx3TUuA" />
 
-I'm a Software Engineer with a focus on Web and Mobile development. I have a passion for technology, a love for coffee, and a knack for applying knowledge to solve real-world problems. Always learning and growing. 🚀
+I'm a Frontend Developer with a focus on Web and Mobile development. I have a passion for technology, a love for coffee, and a knack for applying knowledge to solve real-world problems. Always learning and growing. 🚀
 
 #### My current tools 
 🌎 Front-end Web with Reactjs  
