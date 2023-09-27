@@ -1,6 +1,7 @@
-### Hi, I'm Tiago Pierre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Front-end Developer, with a focus on Web and Mobile development. 🚀
+<img src="https://media.licdn.com/dms/image/D4D16AQGQV_GgWgtmMw/profile-displaybackgroundimage-shrink_350_1400/0/1694511867200?e=1701302400&v=beta&t=2Gb76eeKaqEk4FYfQdPAySqa01TDdPnSsmicSx3TUuA" />
+
+I'm a Software Engineer with a focus on Web and Mobile development. I have a passion for technology, a love for coffee, and a knack for applying knowledge to solve real-world problems. Always learning and growing. 🚀
 
 #### My current tools 
 🌎 Front-end Web with Reactjs  
@@ -10,6 +11,6 @@ I’m a Front-end Developer, with a focus on Web and Mobile development. 🚀
 
 #### 💬 Find me elsewhere
 
-[![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-00875f?style=flat&labelColor=00875&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
-[![Gmail Badge](https://img.shields.io/badge/-tiagopierre.dev@icloud.com-00875f?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagopierre.dev@icloud.com)](mailto:tiagopierre.dev@icloud.com)
+[![Linkedin](https://img.shields.io/badge/-Tiago%20Pierre-0E2D5C?style=flat&labelColor=00875&logo=Linkedin&Color=white)](https://www.linkedin.com/in/devpierre/)
+[![Gmail Badge](https://img.shields.io/badge/-tiagopierre.dev@icloud.com-0E2D5C?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagopierre.dev@icloud.com)](mailto:tiagopierre.dev@icloud.com)
 
